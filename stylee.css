@@ -1,9 +1,13 @@
-html,
+/* html, */
 body {
   height: 100%;
 }
 
-* {
+.logo
+{
+    border-radius: 200px;
+}
+*{
   margin: 0px;
   padding: 0px;
 }
